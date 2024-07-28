@@ -15,14 +15,6 @@ Welcome to my GitHub profile! I'm a dedicated software engineer and web develope
 
 ![Jean de Dieu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UWINTWALI&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
-## 🌐 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UWINTWALI&layout=compact&hide_title=true&theme=radical)
-
-
-## 📈 Contribution Activity
-
-![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=UWINTWALI&theme=react-dark&hide_title=true)
 
 ## ✨ Total Contributions
 
