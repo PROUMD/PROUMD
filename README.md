@@ -11,10 +11,6 @@ Welcome to my GitHub profile! I'm a dedicated software engineer and web develope
 - **Tools & Platforms:** Git, GitHub
 - **Interest:** AI & ML
 
-## 📊 GitHub Statistics
-
-![Jean de Dieu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UWINTWALI&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
 
 ## ✨ Total Contributions
 
